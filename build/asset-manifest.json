@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Halalmeat-ecommorce-website/static/css/main.214223b9.chunk.css",
+    "main.js": "/Halalmeat-ecommorce-website/static/js/main.8adbefa0.chunk.js",
+    "main.js.map": "/Halalmeat-ecommorce-website/static/js/main.8adbefa0.chunk.js.map",
+    "runtime-main.js": "/Halalmeat-ecommorce-website/static/js/runtime-main.7415f652.js",
+    "runtime-main.js.map": "/Halalmeat-ecommorce-website/static/js/runtime-main.7415f652.js.map",
+    "static/css/2.157536d8.chunk.css": "/Halalmeat-ecommorce-website/static/css/2.157536d8.chunk.css",
+    "static/js/2.59da90d0.chunk.js": "/Halalmeat-ecommorce-website/static/js/2.59da90d0.chunk.js",
+    "static/js/2.59da90d0.chunk.js.map": "/Halalmeat-ecommorce-website/static/js/2.59da90d0.chunk.js.map",
+    "index.html": "/Halalmeat-ecommorce-website/index.html",
+    "precache-manifest.aa703d018658f8dff21150270495f095.js": "/Halalmeat-ecommorce-website/precache-manifest.aa703d018658f8dff21150270495f095.js",
+    "service-worker.js": "/Halalmeat-ecommorce-website/service-worker.js",
+    "static/css/2.157536d8.chunk.css.map": "/Halalmeat-ecommorce-website/static/css/2.157536d8.chunk.css.map",
+    "static/css/main.214223b9.chunk.css.map": "/Halalmeat-ecommorce-website/static/css/main.214223b9.chunk.css.map",
+    "static/js/2.59da90d0.chunk.js.LICENSE.txt": "/Halalmeat-ecommorce-website/static/js/2.59da90d0.chunk.js.LICENSE.txt",
+    "static/media/notfound.jpg": "/Halalmeat-ecommorce-website/static/media/notfound.419b4538.jpg",
+    "static/media/slick-theme.css": "/Halalmeat-ecommorce-website/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7415f652.js",
+    "static/css/2.157536d8.chunk.css",
+    "static/js/2.59da90d0.chunk.js",
+    "static/css/main.214223b9.chunk.css",
+    "static/js/main.8adbefa0.chunk.js"
+  ]
+}
